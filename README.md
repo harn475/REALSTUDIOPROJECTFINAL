@@ -1,8 +1,8 @@
 # Art by Rule – Interactive Drawing Instructions
-
-![Planning Process 1](images/planning_process_1.jpg)  
-![Planning Process 2](images/planning_process_2.jpg)  
-![Planning Process 3](images/planning_process_3.jpg)
+<img width="420" alt="Screenshot 2025-02-21 at 5 31 52 PM" src="https://github.com/user-attachments/assets/d218fb27-ea3d-44b3-acb5-ee6e615c57e6" />
+<img width="480" alt="Screenshot 2025-02-21 at 5 32 00 PM" src="https:<img width="445" alt="Screenshot 2025-02-21 at 5 31 44 PM" src="https://github.com/user-attachments/assets/6edf1c3e-bd6a-4175-86ea-ccae853647d9" />
+//github.com/user-attachments/assets/e300a877-08f8-47e4-906d-5928a541d34e" />
+<img width="445" alt="Screenshot 2025-02-21 at 5 31 44 PM" src="https://github.com/user-attachments/assets/5d311956-cbe2-4a0c-9f9d-09af1b49ab6c" />
 
 *(These images capture the initial sketches and brainstorming phase.)*
 
