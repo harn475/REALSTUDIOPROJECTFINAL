@@ -87,6 +87,8 @@ By codifying the creative process into a set of **rules or instructions**, the p
   Invite others to add their own themes and instruction sets as separate repositories.  
 - **Gallery of Outputs:**  
   Incorporate a gallery or screenshot tool to showcase how different users interpret the same instructions.
+- **More Creativity in instructions:**
+  I would like to really expand on my work by looking at creating a database of instructions, this would then align with my four chosen categories, providing the user with a new experience every time they chose a link. 
 
 ## Credits & Acknowledgments
 
