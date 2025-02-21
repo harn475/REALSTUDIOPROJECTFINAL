@@ -90,6 +90,3 @@ By codifying the creative process into a set of **rules or instructions**, the p
 - **Tutorial Creators** – Their videos demystified p5.js functionality.  
 - **Conceptual Influence** – While this project takes cues from conceptual artists’ (Sol Lewitt) use of instructions, it focuses on the power of **coding and user interaction** to bring “art by rule” to life in the browser.
 
----
-
-**Thank you for exploring this project!** Feel free to adapt, remix, or contribute to continue the dialogue on **rule-based art** in the digital realm.
