@@ -92,5 +92,5 @@ function draw() {
   fill(0);
   textFont(customFont);
   textSize(80);
-  text("Choose your Instructions", 735, 100);
+  text("Choose your Instructions", width/2, 100);
 }
