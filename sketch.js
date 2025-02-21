@@ -19,7 +19,7 @@ let customFont; // For the canvas text
 let patiFont, minimalFont, creativeFont, conceptualFont;
 
 function preload() {
-  // Load fonts for buttons (these p5.Font objects can be used for canvas drawing)
+  // Load fonts for buttons
   patiFont = loadFont("VIRUST.ttf");
   minimalFont = loadFont("LEMONMILK-Light.otf");
   creativeFont = loadFont("Komigo3D-Regular.ttf");
@@ -72,7 +72,6 @@ function setup() {
     btn.size(buttonWidth, buttonHeight);
     btn.style("font-size", "18px");
     // Apply a unique font for each button.
-    // (Ensure that the font names below correspond to your font-face definitions or the names in your font files.)
     btn.style("font-family", buttonFontNames[i]);
     btn.style("background-color", "white");
     btn.style("border", "2px solid black");
@@ -92,5 +91,10 @@ function draw() {
   fill(0);
   textFont(customFont);
   textSize(80);
-  text("Choose your Instructions", width/2, 100);
+  // Center the text horizontally using width/2, while keeping the y-position at 100
+  text("Choose your Instructions", width / 2, 100);
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
