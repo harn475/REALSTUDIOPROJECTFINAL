@@ -37,7 +37,7 @@ function preload() {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  textAlign(CENTER, CENTER);
+  textAlign(CENTER);
   textSize(24);
   textFont(customFont);
   defaultBg = color(220);
